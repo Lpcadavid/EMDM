@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234187805874",
+    "project_id": "pruebamom2-6ac73",
+    "storage_bucket": "pruebamom2-6ac73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234187805874:android:08e231322cc3c06dbe65ab",
+        "android_client_info": {
+          "package_name": "com.example.evaluacionmomento2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtGdl-jJtpvWmX_H5Ub6CAD7K3IBSmIuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
